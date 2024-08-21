@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Manu Sharma
 - 👀 I’m interested in Software Developer, Java Developer
-- 🌱 I’m currently learning Data Structures and Algorithm, Spirng Boot and Hibernate
 - 💞️ I’m looking to collaborate on new tech projects where I can learn and apply my knowledge
 - 📫 How to reach me - Mail me at sharma.manu.co@gmail.com
 
